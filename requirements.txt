@@ -3,4 +3,4 @@ gunicorn
 Flask==1.1.1
 opencv-python==4.5.1.48
 numpy==1.20.3
-libgl1-mesa-glx
+opencv-python-headless==4.2.0.32
