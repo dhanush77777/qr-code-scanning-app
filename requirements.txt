@@ -2,5 +2,5 @@ pyzbar
 Flask==1.1.1
 numpy==1.20.3
 opencv_python==4.1.2.30
-zbar
+Gunicorn
 
